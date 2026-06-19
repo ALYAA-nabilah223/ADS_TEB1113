@@ -1,6 +1,5 @@
 # ADS_TEB113
 
-
+| Name | Student ID |
 | :--- | :--- |
-| **Name** | NUR ALYAA NABILAH |
-| **Student ID** | 2501 |
+| NUR ALYAA NABILAH BINTI MAZLAN | 25014139 |
